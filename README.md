@@ -1,8 +1,8 @@
 This is a simple game Rock, Paper, Scissors, which we all know. I created project with Java Swing to practice.
 
-To run the game:
-1.Download code from this repository.
-2.Open with InteliJ IDEA or another IDE.
+To run the game: <br>
+1.Download code from this repository. <br>
+2.Open with InteliJ IDEA or another IDE. <br>
 3.Run "Game GUI".
 
 This is photos of project:
